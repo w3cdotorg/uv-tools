@@ -44,7 +44,7 @@
 - id: CopyrightLine1
   translation: "Offert par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/), adapté par l'[équipe CAP](https://www.ulb.be/fr/l-ulb-et-l-ecole/cap-centre-d-appui-pedagogique) – Le site web __[Outils UV](https://w3cdotorg.github.io/uv-tools/)__ est publié sous licence [Creative Commons BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
 - id: CopyrightLine2
-  translation: "Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français et adaptée par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) avec des contributions de Fabien Balli."
+  translation: "Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français et adaptée par [Nicolas Martignoni](https://blog.martignoni.net/a-propos/) avec des contributions de Fabien Balli et de l'équipe CAP."
 - id: CreditsTitle
   translation: "Crédits et licence"
 - id: EnableDefaultColors
