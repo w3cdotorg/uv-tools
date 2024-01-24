@@ -110,10 +110,19 @@ a:hover {
 
 /* Navigation icons */
 
-.navbar-icon {
+.navbar-icon>a>i {
+    display: inline-block !important;
+    position: relative;
+    top: 1px;
+}
+
+.navbar-icon>a>i.fa.fa-github {
     font-size: 125%;
     display: inline-block !important;
+    position: relative;
+    top: 1px;
 }
+
 
 /* Colored borders at top/bottom of page */
 

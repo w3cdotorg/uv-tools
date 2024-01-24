@@ -9,6 +9,11 @@ $neutral-color: #fffacd; /* Lemon Chiffon */
 $bad-color: #fdbcb4; /* Cantaloupe Melon */
 $gray-column-color: #ebebeb;
 
+:root {
+  --accent: {{ site.Params.accent | default "#ffa91e" }};
+  --border-width: {{ if site.Params.showBorder | default false }} 5px {{ else }} 0 {{ end }};
+}
+
 .b {
   background-color: $header-color;
 }
@@ -59,7 +64,8 @@ Layout for desktop and laptop
 }
 
 .home h1 {
-  color: #f98012;
+/*  color: #f98012; */
+  color: var(--accent);
   margin-bottom: 2ex;
 }
 
