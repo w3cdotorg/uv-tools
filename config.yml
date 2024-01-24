@@ -20,20 +20,17 @@ markup:
       hardWraps: true
 
 params:
-  author: Nicolas Martignoni
-  githubUsername: 'martignoni'
+  author: Clément Larrivé
+  githubUsername: 'w3cdotorg'
   accent: '#f98012'
   showBorder: 'true'
   backgroundColor: '#ffffff'
-  matomoAnalytics:
-    siteid: 4
-    matomoroot: "stats.martignoni.net" # Do not add slashes
   menu:
     icon:
-      - url: 'mailto:nicolas@martignoni.net'
+      - url: 'mailto:clement.larrive@ulb.be'
         name: envelope-o
         weight: 1
-      - url: 'https://github.com/martignoni/moodle-tool-guide'
+      - url: 'https://github.com/w3cdotorg/uv-tools'
         name: github
         weight: 2
   js: 'js/custom.js'
@@ -42,9 +39,9 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Moodle Tool Guide
-    slogan: Moodle Tool Guide for teachers and educators
-    description: 'Moodle Tool Guide: A Quick Reference Guide for teachers and educators to use Moodle version 3 and later.'
+    title: UV Tool Guide
+    slogan: UV Tool Guide for teachers and educators
+    description: 'UV Tool Guide: A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
     keywords:
     - Moodle
     - Moodle Tools
@@ -56,6 +53,9 @@ languages:
     - Moodle Guide for teachers
     - Moodle Guide for instructors
     - Moodle Guide for trainers
+    - Université virtuelle
+    - UV
+    - Université libre de Bruxelles
     contentDir: content/en
     date_format: January 2, 2006
     menu:
@@ -67,16 +67,16 @@ languages:
           name: About
           weight: 2
       icon:
-        - url: 'https://github.com/martignoni/moodle-tool-guide'
+        - url: 'https://github.com/w3cdotorg/uv-tools'
           name: github
           weight: 2
 
   fr:
     languageName: Français
     weight: 2
-    title: Guide des outils Moodle
-    slogan: Guide des outils Moodle pour enseignant·es et formateur·trices
-    description: "Guide des outils Moodle : un aide-mémoire pour l'utilisation de Moodle version 3 et ultérieures, destiné aux enseignantes et enseignants et aux formatrices et formateurs."
+    title: Guide des outils UV
+    slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·trices
+    description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle (Moodle version 3 et ultérieures), destiné aux enseignantes et enseignants et aux formatrices et formateurs."
     keywords:
     - Moodle
     - Outils Moodle
@@ -87,6 +87,9 @@ languages:
     - Guide Moodle
     - Guide Moodle pour enseignants
     - Guide Moodle pour formateurs
+    - Université Virtuelle
+    - UV
+    - Université libre de Bruxelles
     contentDir: content/fr
     date_format: 2 January 2006
     menu:
@@ -98,16 +101,16 @@ languages:
           name: À propos
           weight: 2
       icon:
-        - url: 'https://github.com/martignoni/moodle-tool-guide'
+        - url: 'https://github.com/w3cdotorg/uv-tools'
           name: github
           weight: 2
 
   nl:
     languageName: Nederlands
     weight: 6
-    title: Moodle Gereedschapsgids
-    slogan: Moodle Gereedschapsgids voor onderwijzers en trainers
-    description: 'Moodle Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van Moodle versie 3 en nieuwer.'
+    title: UV Gereedschapsgids
+    slogan: UV Gereedschapsgids voor onderwijzers en trainers
+    description: 'UV Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van UV (Moodle versie 3 en nieuwer).'
     keywords:
     - Moodle
     - Moodle Gereedschappen
@@ -122,6 +125,9 @@ languages:
     - Moodle Gereedschapsgids voor onderwijzers
     - Moodle Gereedschapsgids voor leraren
     - Moodle Gereedschapsgids voor Onderwijzers en Leraren
+    - Université Virtuelle
+    - UV
+    - Université libre de Bruxelles
     contentDir: content/nl
     date_format: 2 January 2006
     menu:
@@ -133,6 +139,6 @@ languages:
           name: Over
           weight: 2
       icon:
-        - url: 'https://github.com/martignoni/moodle-tool-guide'
+        - url: 'https://github.com/w3cdotorg/uv-tools'
           name: github
           weight: 2
