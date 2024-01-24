@@ -7,7 +7,7 @@
             <p>{{ i18n "CopyrightLine1" | markdownify }}</p>
             <p>{{ i18n "CopyrightLine2" | markdownify }}</p>
           </div>
-          <div class="col-sm-6">
+          <div class="col-sm-3">
             <section class="legend">
               <h2 class="legend-header">{{ i18n "Legend" }}</h2>
               <ul class="legend-list">
@@ -25,6 +25,11 @@
             <p class="accessible-colors-note">
               <a id="toggle-accessible-colors">{{ i18n "EnableAccessibleColors" }}</a>
             </p>
+        </div>
+        <div class="col-sm-3">
+          <section class="credits">
+            <a href="https://uv.ulb.ac.be" target="_blank"><img src="{{ "img/UV_ULB_Logo.png" | relURL }}" alt="Logo de l'ULB et de l'Université Virtuelle" class="img-responsive"></a>
+          </section>
         </div>
       </div>
     </footer>
