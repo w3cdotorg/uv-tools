@@ -41,7 +41,7 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 
 ### The Translations
 
-- French translation by [Nicolas Martignoni][nm], with contributions by Fabien Balli.
+- French translation by [Nicolas Martignoni][nm], with contributions by Fabien Balli and the [ULB Learning Center][CAP].
 - Dutch translation courtesy of [Kathrien Bernaerts](https://twitter.com/kbernaerts) (Toll-Net) and [Gemma Lesterhuis](https://twitter.com/BeneluxMnet) (Stichting Mnet Benelux).
 
 ### The Layout
