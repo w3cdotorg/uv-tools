@@ -1,3 +1,0 @@
----
-title: Moodleko Tresnen Gida
----
