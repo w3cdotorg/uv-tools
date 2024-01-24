@@ -36,9 +36,9 @@ params:
 
 languages:
   en:
+    languageName: English
+    weight: 1
     params: 
-      languageName: English
-      weight: 1
       title: UV Tool Guide
       slogan: UV Tool Guide for teachers and educators
       description: 'UV Tool Guide: A Quick Reference Guide for teachers and educators to use the Université Virtuelle at ULB.'
@@ -56,25 +56,25 @@ languages:
       - Université virtuelle
       - UV
       - Université libre de Bruxelles
-      contentDir: content/en
       date_format: January 2, 2006
-      menu:
-        main:
-          - url: /
-            name: Home
-            weight: 1
-          - url: /en/about/
-            name: About
-            weight: 2
-        icon:
-          - url: 'https://github.com/w3cdotorg/uv-tools'
-            name: github
-            weight: 2
+    contentDir: content/en
+    menu:
+      main:
+        - url: 
+          name: Home
+          weight: 1
+        - url: about/
+          name: About
+          weight: 2
+      icon:
+        - url: 'https://github.com/w3cdotorg/uv-tools'
+          name: github
+          weight: 2
 
   fr:
+    languageName: Français
+    weight: 2
     params:
-      languageName: Français
-      weight: 2
       title: Guide des outils UV
       slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·trices
       description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle (Moodle version 3 et ultérieures), destiné aux enseignantes et enseignants et aux formatrices et formateurs."
@@ -91,25 +91,25 @@ languages:
       - Université Virtuelle
       - UV
       - Université libre de Bruxelles
-      contentDir: content/fr
       date_format: 2 January 2006
-      menu:
-        main:
-          - url: /
-            name: Accueil
-            weight: 1
-          - url: /about/
-            name: À propos
-            weight: 2
-        icon:
-          - url: 'https://github.com/w3cdotorg/uv-tools'
-            name: github
-            weight: 2
+    contentDir: content/fr
+    menu:
+      main:
+        - url: 
+          name: Accueil
+          weight: 1
+        - url: about/
+          name: À propos
+          weight: 2
+      icon:
+        - url: 'https://github.com/w3cdotorg/uv-tools'
+          name: github
+          weight: 2
 
   nl:
+    languageName: Nederlands
+    weight: 6
     params:
-      languageName: Nederlands
-      weight: 6
       title: UV Gereedschapsgids
       slogan: UV Gereedschapsgids voor onderwijzers en trainers
       description: 'UV Gereedschapsgid voor leerkrachten: Een korte handleiding voor leerkrachten en trainers over het gebruik van UV (Moodle versie 3 en nieuwer).'
@@ -130,17 +130,17 @@ languages:
       - Université Virtuelle
       - UV
       - Université libre de Bruxelles
-      contentDir: content/nl
       date_format: 2 January 2006
-      menu:
-        main:
-          - url: /
-            name: Home
-            weight: 1
-          - url: /about/
-            name: Over
-            weight: 2
-        icon:
-          - url: 'https://github.com/w3cdotorg/uv-tools'
-            name: github
-            weight: 2
+    contentDir: content/nl
+    menu:
+      main:
+        - url: 
+          name: Home
+          weight: 1
+        - url: about/
+          name: Over
+          weight: 2
+      icon:
+        - url: 'https://github.com/w3cdotorg/uv-tools'
+          name: github
+          weight: 2
