@@ -4,8 +4,6 @@
 
 [[UV Tool Guide][site] is available in 3 languages: English, French, Dutch.
 
-[![Build Status](https://github.com/martignoni/moodle-tool-guide/workflows/Hugo%20CI%20&%20deploy/badge.svg)](https://github.com/martignoni/moodle-tool-guide/actions?query=workflow%3A%22Hugo+CI+%26+deploy%22)
-
 It is based on the [Moodle Tool Guide][site2] maintained by Nicolas Martignoni.
 
 ## Moodle Tool Guide
@@ -13,6 +11,8 @@ It is based on the [Moodle Tool Guide][site2] maintained by Nicolas Martignoni.
 [Moodle Tool Guide][site2] is an [open licensed][cc] multilingual reference card for using [Moodle][moodle] version 3 and later, designed for teachers, educators and trainers. It provides info on what Moodle tool to use according to the pedagogical goal to achieve.
 
 [Moodle Tool Guide][site2] is available in 13 languages: English, French, Italian, German, Dutch, Basque, Brazilian Portuguese, Portuguese, Spanish, Chinese, Swedish, Finnish and Estonian.
+
+[![Build Status](https://github.com/martignoni/moodle-tool-guide/workflows/Hugo%20CI%20&%20deploy/badge.svg)](https://github.com/martignoni/moodle-tool-guide/actions?query=workflow%3A%22Hugo+CI+%26+deploy%22)
 
 ## Localization
 
@@ -37,6 +37,7 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
 - Freely provided and maintained by [Nicolas Martignoni][nm] with [Hugo][hugo], a fast and flexible static site generator.
 - Based on a idea of [Joyce Seitzinger](https://twitter.com/catspyjamasnz).
 - English version based on work by [Gavin Henrick](https://twitter.com/ghenrick), adapted by [Nicolas Martignoni][nm].
+- Adapted for the Université Virtuelle by the ULB Learning Center ([Centre d'appui pédagogique][CAP]).
 
 ### The Translations
 
@@ -55,3 +56,4 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
   [nm]: https://blog.martignoni.net/a-propos/
   [UV]: https://uv.ulb.ac.be/
   [moodle]: https://moodle.org/
+  [CAP]: https://www.ulb.be/fr/l-ulb-et-l-ecole/cap-centre-d-appui-pedagogique
