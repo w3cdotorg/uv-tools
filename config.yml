@@ -71,9 +71,17 @@ languages:
           name: Connect to the UV
           weight: 3
       icon:
-        - url: 'https://github.com/w3cdotorg/uv-tools'
-          name: github
+        - url: https://uv.ulb.ac.be
+          name: external-link
           weight: 4
+      icon:
+        - url: https://github.com/w3cdotorg/uv-tools
+          name: github
+          weight: 5
+      icon:
+        - url: https://github.com/w3cdotorg/uv-tools
+          name: github
+          weight: 5
 
   fr:
     languageName: Français
@@ -109,7 +117,7 @@ languages:
           name: Connection à l'UV
           weight: 3
       icon:
-        - url: 'https://github.com/w3cdotorg/uv-tools'
+        - url: https://github.com/w3cdotorg/uv-tools
           name: github
           weight: 4
 
@@ -151,6 +159,6 @@ languages:
           name: Aansluiten aan UV
           weight: 3
       icon:
-        - url: 'https://github.com/w3cdotorg/uv-tools'
+        - url: https://github.com/w3cdotorg/uv-tools
           name: github
           weight: 4
