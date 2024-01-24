@@ -126,7 +126,11 @@ a:hover {
 }
 
 ul.nav.navbar-nav li a {
-    color:#FFF;
+    color: #FFF;
+}
+
+ul.nav.navbar-nav.navbar-right li ul.dropdown-menu a {
+    color: var(--accent);
 }
 
 footer {
