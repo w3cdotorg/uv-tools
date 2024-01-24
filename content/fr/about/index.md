@@ -3,7 +3,7 @@ title: À propos
 description: Qu'est-ce que le Guide des outils UV ?
 ---
 
-Le _Guide des outils UV_ est un aide-mémoire pour l'utilisation de l'[Université Virtuelle][UV] (moodle version 3 et ultérieures), destiné aux enseignant·es et aux formateur·rices. Il détaille dans un tableau à double entrée les principaux outils disponibles sur l'UV et leur utilisation pédagogique. Il mentionne également les [niveaux taxonomiques de Bloom][bloom] pouvant être atteints lors de l'utilisation des différents outils.
+Le _Guide des outils UV_ est un aide-mémoire pour l'utilisation de l'[Université Virtuelle][UV] (Moodle version 3 et ultérieures), destiné aux enseignant·es et aux formateur·rices. Il détaille dans un tableau à double entrée les principaux outils disponibles sur l'UV et leur utilisation pédagogique. Il mentionne également les [niveaux taxonomiques de Bloom][bloom] pouvant être atteints lors de l'utilisation des différents outils.
 
 Une idée de [Joyce Seitzinger](https://twitter.com/catspyjamasnz) de l'[Eastern Institute of Technology](https://www.eit.ac.nz/) (NZ), traduite en français par [Nicolas Martignoni][nm], adaptée pour Moodle 2.x par Fabien Balli et pour [l'Université Virtuelle][UV] par l'équipe du [Centre d'appui pédagogique (CAP)][CAP] de l'ULB. Mise à jour en mai 2020 pour Moodle 3.x par [Nicolas Martignoni][nm], et en janvier 2024 par l'équipe CAP.
 
