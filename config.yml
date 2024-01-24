@@ -76,7 +76,7 @@ languages:
     weight: 2
     params:
       title: Guide des outils UV
-      slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·trices
+      slogan: Guide des outils sur l'Université Virtuelle pour enseignant·es et formateur·rices
       description: "Guide des outils UV : un aide-mémoire pour l'utilisation de l'Université Virtuelle (Moodle version 3 et ultérieures), destiné aux enseignantes et enseignants et aux formatrices et formateurs."
       keywords:
       - Moodle
