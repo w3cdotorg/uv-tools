@@ -51,9 +51,3 @@
   translation: "Use default colors"
 - id: EnableAccessibleColors
   translation: "Enable accessible colors"
-- id: SupportTitle
-  translation: "Support with a donation"
-- id: SupportText
-  translation: "Make a donation now ❤️ to support the Moodle Tool Guide website."
-- id: DonateNow
-  translation: "Donate now!"

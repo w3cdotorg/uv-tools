@@ -51,9 +51,3 @@
   translation: "Gebruik van standaard kleuren"
 - id: EnableAccessibleColors
   translation: "Schakel toegankelijke kleuren in"
-- id: SupportTitle
-  translation: "Ondersteun met een donatie"
-- id: SupportText
-  translation: "Doneer nu ❤️ om de Moodle Gereedschapsgids website te ondersteunen."
-- id: DonateNow
-  translation: "Doneer nu!"

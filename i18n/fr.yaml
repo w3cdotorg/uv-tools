@@ -51,9 +51,3 @@
   translation: "Couleurs standards"
 - id: EnableAccessibleColors
   translation: "Couleurs accessibles"
-- id: SupportTitle
-  translation: "Soutenir par un don"
-- id: SupportText
-  translation: "Faire un don ❤️ pour soutenir le site web du Guide des outils Moodle."
-- id: DonateNow
-  translation: "Faire un don maintenant !"
