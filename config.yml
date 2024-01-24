@@ -63,7 +63,7 @@ languages:
         - url: /
           name: Home
           weight: 1
-        - url: /about/
+        - url: /en/about/
           name: About
           weight: 2
       icon:

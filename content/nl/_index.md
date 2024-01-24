@@ -1,3 +1,3 @@
 ---
-title: Moodle Gereedschapsgids
+title: UV Gereedschapsgids
 ---

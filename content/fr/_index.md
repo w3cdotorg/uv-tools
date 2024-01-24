@@ -1,3 +1,3 @@
 ---
-title: Guide des outils Moodle
+title: Guide des outils UV
 ---
