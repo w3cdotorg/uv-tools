@@ -9,6 +9,7 @@ defaultContentLanguageInSubdir: true
 
 # Enable robots.txt generation
 enableRobotsTXT: true
+enableEmoji: true
 
 disableKinds:
 - taxonomy
@@ -66,10 +67,13 @@ languages:
         - url: about/
           name: About
           weight: 2
+        - url: https://uv.ulb.ac.be
+          name: Connect to the UV
+          weight: 3
       icon:
         - url: 'https://github.com/w3cdotorg/uv-tools'
           name: github
-          weight: 2
+          weight: 4
 
   fr:
     languageName: Français
@@ -101,10 +105,13 @@ languages:
         - url: about/
           name: À propos
           weight: 2
+        - url: https://uv.ulb.ac.be
+          name: Connection à l'UV
+          weight: 3
       icon:
         - url: 'https://github.com/w3cdotorg/uv-tools'
           name: github
-          weight: 2
+          weight: 4
 
   nl:
     languageName: Nederlands
@@ -140,7 +147,10 @@ languages:
         - url: about/
           name: Over
           weight: 2
+        - url: https://uv.ulb.ac.be
+          name: Aansluiten aan UV
+          weight: 3
       icon:
         - url: 'https://github.com/w3cdotorg/uv-tools'
           name: github
-          weight: 2
+          weight: 4
