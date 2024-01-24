@@ -20,7 +20,7 @@ markup:
       hardWraps: true
 
 params:
-  author: Clément Larrivé
+  author: Clément Larrivé, Équipe CAP
   githubUsername: 'w3cdotorg'
   accent: '#f98012'
   showBorder: 'true'
