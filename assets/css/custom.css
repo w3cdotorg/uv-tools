@@ -183,7 +183,10 @@ table.display td.neutral, .neutral {
 table.display>tbody>tr>td>a {
     color: $link-color;
     text-decoration: underline;
-  }
+}
+table.display>tbody>tr>td>i.fa.fa-external-link {
+    font-size:12px;
+}
 
 /* Footer */
 

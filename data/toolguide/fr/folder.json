@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=395669' target='_blank'><strong>Dossier</strong></a><br />Déposer plusieurs fichiers dans un répertoire",
+    "text": "<a href='https://uv.ulb.ac.be/mod/page/view.php?id=395669' target='_blank'><strong>Dossier</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Déposer plusieurs fichiers dans un répertoire",
     "style": "header"
   }, {
     "id": "2",

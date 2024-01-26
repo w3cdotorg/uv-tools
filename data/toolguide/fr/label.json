@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<a href='https://uv.ulb.ac.be/course/view.php?id=82314&section=4#etiquette' target='_blank'><strong>Zone texte et média (étiquette)</strong></a><br />Insérer du texte et des média",
+    "text": "<a href='https://uv.ulb.ac.be/course/view.php?id=82314&section=4#etiquette' target='_blank'><strong>Zone texte et média (étiquette)</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Insérer du texte et des média",
     "style": "header"
   }, {
     "id": "2",
