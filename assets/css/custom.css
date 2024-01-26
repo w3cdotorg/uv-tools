@@ -8,6 +8,7 @@ $good-color: #d0f0c0; /* Tea green */
 $neutral-color: #fffacd; /* Lemon Chiffon */
 $bad-color: #fdbcb4; /* Cantaloupe Melon */
 $gray-column-color: #ebebeb;
+$link-color: #00F;
 
 :root {
   --accent: {{ site.Params.accent | default "#ffa91e" }};
@@ -178,6 +179,11 @@ table.display td.bad, .bad {
 table.display td.neutral, .neutral {
   @extend .y !optional;
 }
+
+table.display>tbody>tr>td>a {
+    color: $link-color;
+    text-decoration: underline;
+  }
 
 /* Footer */
 
@@ -378,5 +384,9 @@ Layout for printing
   }
   tfoot {
     display: table-footer-group;
+  }
+    table.display>tbody>tr>td>a {
+    color: $link-color;
+    text-decoration: underline;
   }
 }
