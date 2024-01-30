@@ -141,6 +141,11 @@
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
+    <tr>
+      {{ range .questionnaire }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>    
   </tbody>
 </table>
 </div>
