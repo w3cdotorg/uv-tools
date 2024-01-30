@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Glossaire</strong><br />Rassembler des ressources ou collecter des informations",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Glossaire' target='_blank'><strong>Glossaire</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Rassembler des ressources ou collecter des informations",
     "style": "header"
   }, {
     "id": "2",

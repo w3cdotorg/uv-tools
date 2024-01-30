@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "text": "<a href='https://uv.ulb.ac.be/pluginfile.php/2703296/mod_resource/content/4/Moodle19b-Suivi_participants_liste_taches.pdf' target='_blank'><strong>Liste de tâches</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Suivre l'évolution des participant·es et valider ou non sa progression",
+    "style": "header"
+  }, {
+    "id": "2",
+    "text": "En cours",
+    "style": "neutrral"
+  }, {
+    "id": "3",
+    "text": "En cours",
+    "style": "neutrral"
+  }, {
+    "id": "4",
+    "text": "En cours",
+    "style": "neutrral"
+  }, {
+    "id": "5",
+    "text": "En cours",
+    "style": "neutrral"
+  }, {
+    "id": "6",
+    "text": "En cours",
+    "style": "neutrral"
+  }, {
+    "id": "7",
+    "text": "x/x<br />En cours",
+    "style": "neutrral"
+  }
+]

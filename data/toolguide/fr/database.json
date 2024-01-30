@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Base de données</strong><br />Collecter, partager et de rechercher des artefacts créés",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Base_de_donn%C3%A9es' target='_blank'><strong>Base de données</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Collecter, partager et de rechercher des artefacts créés",
     "style": "header"
   }, {
     "id": "2",

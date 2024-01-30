@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Leçon</strong><br />Transmettre des infos de façon flexible, avec des questions de validation",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Le%C3%A7on' target='_blank'><strong>Leçon</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Transmettre des infos de façon flexible, avec des questions de validation",
     "style": "header"
   }, {
     "id": "2",

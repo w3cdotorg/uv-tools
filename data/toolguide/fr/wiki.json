@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Wiki</strong><br />Permettre la création de pages en collaboration, comme Wikipedia",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Wiki' target='_blank'><strong>Wiki</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Permettre la création de pages en collaboration, comme Wikipedia",
     "style": "header"
   }, {
     "id": "2",

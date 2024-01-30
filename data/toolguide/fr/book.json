@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Livre</strong><br />Créer un texte de plusieurs pages avec chapitres et sous-chapitres",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Livre' target='_blank'><strong>Livre</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Créer un texte de plusieurs pages avec chapitres et sous-chapitres",
     "style": "header"
   }, {
     "id": "2",

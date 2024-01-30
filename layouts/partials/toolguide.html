@@ -33,6 +33,11 @@
       {{ end }}
     </tr>
     <tr>
+      {{ range .checklist }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>    
+    <tr>
       {{ range .page }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
@@ -93,6 +98,11 @@
     <tr class="title-row">
       <td colspan="7">{{ i18n "Activities" }} – {{ i18n "ShareData" }}</td>
     </tr>
+    <tr>
+      {{ range .pdfannotator }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>    
     <tr>
       {{ range .database }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>

@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Forum</strong><br />Favoriser les discussions : débats, rapports, jeux de rôles, analyse d'info, listes d'idées, etc.",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Forum' target='_blank'><strong>Forum</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Favoriser les discussions : débats, rapports, jeux de rôles, analyse d'info, listes d'idées, etc.",
     "style": "header"
   }, {
     "id": "2",

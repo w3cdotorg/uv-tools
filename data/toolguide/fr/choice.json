@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Sondage</strong><br />Permettre de voter, de choisir des sujets ; pour obtenir une tendance",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Sondage' target='_blank'><strong>Sondage</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Permettre de voter, de choisir des sujets ; pour obtenir une tendance",
     "style": "header"
   }, {
     "id": "2",

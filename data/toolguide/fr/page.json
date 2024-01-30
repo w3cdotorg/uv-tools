@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "text": "<strong>Page</strong><br />Insérer le contenu d'une page Internet",
+    "text": "<a href='https://docs.moodle.org/4x/fr/Page' target='_blank'><strong>Page</strong></a> <i class='fa fa-external-link' aria-hidden='true'></i><br />Insérer le contenu d'une page Internet",
     "style": "header"
   }, {
     "id": "2",
