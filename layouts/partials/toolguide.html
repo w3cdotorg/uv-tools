@@ -148,7 +148,12 @@
       {{ range .choicegroup }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>            
+    </tr>
+    <tr>
+      {{ range .attendance }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>                     
     <tr>
       {{ range .scheduler }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
