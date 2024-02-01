@@ -104,6 +104,11 @@
       {{ end }}
     </tr>
     <tr>
+      {{ range .publication }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>    
+    <tr>
       {{ range .board }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
