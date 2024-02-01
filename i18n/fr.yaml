@@ -6,11 +6,13 @@
 - id: Inform
   translation: "Informer"
 - id: InformEvaluate
-  translation: "Informer et évaluer"
+  translation: "S'exercer et évaluer"
 - id: ShareData
   translation: "Mettre en commun des données"
 - id: IdentifyTrends
   translation: "Faire ressortir des tendances"
+- id: Manage
+  translation: "Encadrer"
 # Row header strings, used in small scren rendering
 - id: EaseOfUse
   translation: "Facilité"

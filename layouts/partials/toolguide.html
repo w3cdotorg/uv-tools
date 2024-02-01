@@ -31,12 +31,7 @@
       {{ range .folder }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>
-    <tr>
-      {{ range .checklist }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>    
+    </tr> 
     <tr>
       {{ range .page }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
@@ -61,16 +56,6 @@
       {{ end }}
     </tr>
     <tr>
-      {{ range .scheduler }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr>
-      {{ range .reservation }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr>
       {{ range .assignment }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
@@ -86,15 +71,20 @@
       {{ end }}
     </tr>
     <tr>
-      {{ range .chat }}
-      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
-      {{ end }}
-    </tr>
-    <tr>
       {{ range .workshop }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
     </tr>
+    <tr>
+      {{ range .hvp }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .wooclap }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>        
     <tr class="title-row">
       <td colspan="7">{{ i18n "Activities" }} – {{ i18n "ShareData" }}</td>
     </tr>
@@ -145,7 +135,30 @@
       {{ range .questionnaire }}
       <td class="{{ .style }}">{{ .text | safeHTML }}</td>
       {{ end }}
-    </tr>    
+    </tr>
+    <tr class="title-row">
+      <td colspan="7">{{ i18n "Activities" }} – {{ i18n "Manage" }}</td>
+    </tr>
+    <tr>
+      {{ range .checklist }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .choicegroup }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>            
+    <tr>
+      {{ range .scheduler }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>
+    <tr>
+      {{ range .reservation }}
+      <td class="{{ .style }}">{{ .text | safeHTML }}</td>
+      {{ end }}
+    </tr>          
   </tbody>
 </table>
 </div>
