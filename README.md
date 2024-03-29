@@ -1,6 +1,6 @@
 # Important note
 
-This project has been transferred over [to this repository][newsite].
+This project has been transferred over [to this repository](https://github.com/capULB/uv-tools/).
 
 # Université Virtuelle Tool Guide
 
