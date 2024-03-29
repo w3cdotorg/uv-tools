@@ -1,6 +1,6 @@
 # Important note
 
-This project has been transferred over [to this repository][https://github.com/capULB/uv-tools/].
+This project has been transferred over [to this repository][newsite].
 
 # Université Virtuelle Tool Guide
 
@@ -61,3 +61,4 @@ This work is licensed under a [CC-BY-NC-SA 4.0 International License][cc].
   [UV]: https://uv.ulb.ac.be/
   [moodle]: https://moodle.org/
   [CAP]: https://www.ulb.be/fr/l-ulb-et-l-ecole/cap-centre-d-appui-pedagogique
+  [newsite] : https://github.com/capULB/uv-tools/
