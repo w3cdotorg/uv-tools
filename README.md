@@ -1,3 +1,7 @@
+# Important note
+
+This project has been transferred over [to this repository][https://github.com/capULB/uv-tools/].
+
 # Université Virtuelle Tool Guide
 
 [Université Virtuelle (UV) Tool Guide][site] is an [open licensed][cc] trilingual reference card for using [the Université Virtuelle][UV], the virtual campus at ULB, based on Moodle version 3 and later, designed for teachers, educators and trainers. It provides info on what UV tool to use according to the pedagogical goal to achieve.
